@@ -1,7 +1,7 @@
 # StockPredictions
 1.Using LSTM model, I created a model which uses previous data of specific stocks and predicts future pricing
 
-Q: What is a LSTM Model?
+Q: What is a LSTM Model?#
 A: An LSTM model is a variant of a deep neural network which uses long term seuquences to train and predict, rather than specfic data points
 
 Q: Why was a LSTM model used?
